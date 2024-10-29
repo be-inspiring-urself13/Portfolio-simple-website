@@ -21,8 +21,7 @@ This portfolio features a clean and simple design with two main pages:
 To view my portfolio, clone this repository and open the `index.html` file in your web browser:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
-cd your-portfolio
+git clone (https://be-inspiring-urself13.github.io/Portfolio-simple-website/)
 open index.html
 ```
 
